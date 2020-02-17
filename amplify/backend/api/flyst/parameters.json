@@ -1,0 +1,11 @@
+{
+    "AppSyncApiName": "flyst",
+    "DynamoDBBillingMode": "PAY_PER_REQUEST",
+    "DynamoDBEnableServerSideEncryption": "false",
+    "AuthCognitoUserPoolId": {
+        "Fn::GetAtt": [
+            "authflystb4a3d466",
+            "Outputs.UserPoolId"
+        ]
+    }
+}

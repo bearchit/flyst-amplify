@@ -1,0 +1,20 @@
+{
+    "prod": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-flyst-prod-32517-authRole",
+            "UnauthRoleArn": "arn:aws:iam::429860368680:role/amplify-flyst-prod-32517-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::429860368680:role/amplify-flyst-prod-32517-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-flyst-prod-32517-deployment",
+            "UnauthRoleName": "amplify-flyst-prod-32517-unauthRole",
+            "StackName": "amplify-flyst-prod-32517",
+            "StackId": "arn:aws:cloudformation:us-east-1:429860368680:stack/amplify-flyst-prod-32517/dd81a0b0-51b2-11ea-b715-12a48490849f",
+            "AmplifyAppId": "d2r7v7k827jzbv"
+        },
+        "categories": {
+            "auth": {
+                "flystb4a3d466": {}
+            }
+        }
+    }
+}

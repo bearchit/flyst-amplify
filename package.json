@@ -1,5 +1,5 @@
 {
-  "name": "flyst-webapp-amplify",
+  "name": "flyst-amplify",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
